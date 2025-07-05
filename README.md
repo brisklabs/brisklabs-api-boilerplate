@@ -1,6 +1,6 @@
 # 🚀 Brisklabs API Boilerplate
 
-A clean and modular FastAPI boilerplate built with Python — designed for rapid backend development at **Brisklabs**.
+A clean and modular [FastAPI](https://fastapi.tiangolo.com) boilerplate built with Python, designed for rapid backend development at **Brisklabs**.
 
 ---
 
@@ -16,7 +16,7 @@ A clean and modular FastAPI boilerplate built with Python — designed for rapid
 
 ## 🛠️ Getting Started
 
-### 1. Clone the repository
+### 1. Clone and run the project
 
 ```bash
 > git clone https://github.com/your-username/brisklabs-api-boilerplate.git
@@ -30,9 +30,9 @@ A clean and modular FastAPI boilerplate built with Python — designed for rapid
 
 ## 📚 API Documentation
 Once the server is running, you can explore the API docs:
-🧪 Swagger UI – http://127.0.0.1:8000/docs
-📘 ReDoc – http://127.0.0.1:8000/redoc
-📂 OpenAPI JSON – http://127.0.0.1:8000/openapi.json
+- 🧪 Swagger UI – http://127.0.0.1:8000/docs
+- 📘 ReDoc – http://127.0.0.1:8000/redoc
+- 📂 OpenAPI JSON – http://127.0.0.1:8000/openapi.json
 
 ---
 
@@ -58,4 +58,4 @@ app/
 
 ---
 
-## 👨‍💻 Maintained by Brisklabs
+### 👨‍💻 Maintained by [Brisklabs](https://www.brisklabs.dev)
